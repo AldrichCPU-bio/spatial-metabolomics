@@ -2,7 +2,7 @@
 
 #######################################################################################
 ###### CAUTION: this is an old script, of which Cardinal version <= 3.6 but > 2.xx ####
-### if your `Cardinal` version >= 3.8, please refer to `1b.overview_cardinal_v3.8.R` ##
+# if your `Cardinal` version >= 3.8, please refer to `1a.data_import_Cardinal_v3.8.R` #
 #######################################################################################
 
 load_packages <- function(pkgs) {
